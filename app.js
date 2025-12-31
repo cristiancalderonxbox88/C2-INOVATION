@@ -1422,7 +1422,7 @@ function agregarAutor() {
             </div>
             <div class="version-info">
                 <i class="fas fa-calculator"></i>
-                <span>Sistema de Producción v1.0</span>
+                <span>Gestor de rendimientos v1.0</span>
             </div>
             <div class="copyright">
                 <i class="fas fa-copyright"></i>
